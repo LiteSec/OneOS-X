@@ -1,0 +1,6 @@
+user onecloud@nfox.co
+onecloud
+bin
+del anton75012.zip
+put system\cloud\anton75012\anton75012.zip
+quit

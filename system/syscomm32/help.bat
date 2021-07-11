@@ -1,0 +1,1 @@
+type system\syscomm32\core\helpdoc.log

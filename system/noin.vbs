@@ -1,0 +1,1 @@
+x=msgbox("OneOS is having some trouble connecting to the servers. Please make sure you have an active internet connection. (ERROR 403)" ,16, "OneOS Helper")
